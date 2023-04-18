@@ -21,6 +21,6 @@ if (y) {
     alert("YOU JOINED THE COMPANY")
     console.log("LOGIN SUCCESSFULL")
 }else{
-    alert("Access Denied")
-    console.log("YOU SHALL NOT PASS")
+    alert("YOU SHALL NOT PASS")
+    console.log("Access Denied")
 }
